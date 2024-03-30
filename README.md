@@ -15,4 +15,9 @@ CSS ditambahkan pada program html untuk menambahkan syntax dan juga selector unt
 
 # JAVASCRIPT
 Penambahan Javascript pada program html dan css berguna untuk menambahkan kesan web menjadi lebih hidup dan berwarna dan jauh lebih menarik untuk dilihat
+
 Javascript memiliki elemen style untuk menambahkan menampilkan sebuah alert pada program serta dapat melakukan perhitungan baik dalam penambahan, penjumlahan, perkalian, dan juga pembagian
+
+# REFERENCE
+Materi ini menggunakan referensi dari:
+https://www.w3schools.com/
