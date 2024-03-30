@@ -54,6 +54,8 @@ Berikut ini contoh pada Javascript dengan menampilkan alert:
 
 `button` pada javascript berfungsi untuk menampilakan tombol menuju sebuh alert
 
+`function` digunakan memanggil suatu fungsi, memulai suatu fungsi, atau menjalankan suatu fungsi
+
 Berikut ini merupakan hasil outpun menggunakan Javascript:
 
 ![Screenshot 2024-03-30 at 12-43-34 W3Schools online HTML editor](https://github.com/callherdevia1/Tugas2-PWEB-1/assets/152271304/7a3bfc82-d27d-4ae3-901b-2b4fb648ec42)
