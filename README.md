@@ -44,7 +44,7 @@ Berikut hasil output dengan penambahan CSS:
 # 3. JAVASCRIPT
 Penambahan Javascript pada program html dan css berguna untuk menambahkan kesan web menjadi lebih hidup dan berwarna dan jauh lebih menarik untuk dilihat
 
-Javascript memiliki elemen style untuk menambahkan menampilkan sebuah alert pada program serta dapat melakukan perhitungan baik dalam penambahan, penjumlahan, perkalian, dan juga pembagian
+Javascript memiliki elemen style untuk menambahkan menampilkan sebuah alert pada program serta dapat melakukan perhitungan baik dalam penambahan, penjumlahan, perkalian, dan juga pembagian serta dapat memunculkan sebuah alert tanpa harus membuka tab selanjutnya.
 
 Berikut ini contoh pada Javascript dengan menampilkan alert:
 
