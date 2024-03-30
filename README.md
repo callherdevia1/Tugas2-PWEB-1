@@ -46,6 +46,22 @@ Penambahan Javascript pada program html dan css berguna untuk menambahkan kesan 
 
 Javascript memiliki elemen style untuk menambahkan menampilkan sebuah alert pada program serta dapat melakukan perhitungan baik dalam penambahan, penjumlahan, perkalian, dan juga pembagian
 
+Berikut ini contoh pada Javascript dengan menampilkan alert:
+
+![Screenshot 2024-03-30 at 12-39-58 W3Schools online HTML editor](https://github.com/callherdevia1/Tugas2-PWEB-1/assets/152271304/d3097ece-e87e-407e-ab44-a770479c780d)
+
+`alert` berfungsi untuk menampilkan sebuah outpun tanpa membuka tab baru
+
+`button` pada javascript berfungsi untuk menampilakan tombol menuju sebuh alert
+
+Berikut ini merupakan hasil outpun menggunakan Javascript:
+
+![Screenshot 2024-03-30 at 12-43-34 W3Schools online HTML editor](https://github.com/callherdevia1/Tugas2-PWEB-1/assets/152271304/7a3bfc82-d27d-4ae3-901b-2b4fb648ec42)
+
+
+Ketika button di klik maka akan muncul sebuah alert pada windows layar
+
+
 # REFERENCE
 Materi ini menggunakan referensi dari:
 https://www.w3schools.com/
